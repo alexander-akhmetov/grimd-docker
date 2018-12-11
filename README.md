@@ -1,6 +1,6 @@
 Dockerized [grimd](https://github.com/looterz/grimd)
 
-**obsolete** grimd already has `Dockerfile` in the repository https://github.com/looterz/grimd
+**obsolete**: grimd already has `Dockerfile` in the repository https://github.com/looterz/grimd
 
 #### How to run:
 
